@@ -4,6 +4,6 @@ GreenGit is a bash script that will help you look very active on github while yo
 becouse i can...
 
 # how to use it?
-1. fork
+1. fork GreenGit
 2. crontab -e
-3. 00 * * * * Path/to/GreenGit/allgreen.sh
+3. */10 * * * * cd Path/to/GreenGit && Path/to/GreenGit/allgreen.sh
